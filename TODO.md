@@ -7,6 +7,5 @@
 * Scale polygons
 * Translate polygons
 * Light polygons (flat shading)
-* Ambient, diffuse, specular reflections
 * Gouraud shading
 * Phong shading
